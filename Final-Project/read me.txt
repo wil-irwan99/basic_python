@@ -1,0 +1,3 @@
+Syarat agar program tersebut jalan:
+1. Pengirim email harus menggunakan gmail
+2. Pada bagian file directory path (var berkas), disesuaikan dengan directory pada PC masing-masing
